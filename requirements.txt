@@ -4,6 +4,7 @@ accelerate
 bitsandbytes
 pypdf
 tiktoken
+torch
 sentence_transformers
 faiss-gpu
 trafilatura
